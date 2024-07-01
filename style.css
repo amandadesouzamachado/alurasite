@@ -1,0 +1,25 @@
+.conteudo-principal{
+    display: flex;
+    flex-diretion: colum; 
+    justify-content: center;
+    aling-intems: center;
+    max- whidth: 120px;
+    width: 100%;
+    margin: 0 auto;
+    
+
+}
+.botao {
+    font- family: " Crakra Petch", sans-serif;
+    backgraund-color: var(-- botao-inativo);
+    color: var (--branco);
+    display: flex;
+    justify-content: center;
+    padding: 1em;
+    font- size: 18px;
+    aling-items: center;
+    width: 100%;
+
+    border-bottom: 4px solid var (--botao=-ativo);
+    border-left: 2px solid var (--botao-ativo)
+}
